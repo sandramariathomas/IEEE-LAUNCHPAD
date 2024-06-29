@@ -21,7 +21,7 @@ Checkout my github profile : https://github.com/sandramariathomas
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I was the coordinator of the IT Fest coding & debugging competition held at my college.
 
 #### Networking:
 
@@ -33,23 +33,11 @@ Checkout my github profile : https://github.com/sandramariathomas
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent along with some expert supervision and guidelines and creating a supportive environment for startups.Collaboration between academia, government, and industry will be key to achieving this vision.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Pycharm,Visual Studio,Turbo c++
 
 #### Competitive Website Profiles:
 
@@ -57,8 +45,8 @@ Checkout my github profile : https://github.com/sandramariathomas
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+> 
+>> check out [sandramariathomas@mulearn.md](./profiles/sandramariathomas@mulearn.md) 
 
 ---
 
