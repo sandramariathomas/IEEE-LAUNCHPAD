@@ -3,7 +3,11 @@
 
 ### About Me
 
-> An enthusiastic Computer science postgraduate student
+> I'm Sandra Maria Thomas, an enthusiastic Computer Science student always up for new challenges and learning opportunities. I believe in applying knowledge to real-world scenarios with enthusiasm and a drive for continuous growth. I thrive in team environments and am always eager to contribute to exciting projects
+I possess a good grasp of the basics of programming languages such as Python,and C .I'm constantly seeking opportunities for professional development, driven by my passion for growth in my field. I firmly believe that my enthusiasm and commitment render me an invaluable addition to any project or team.
+When I'm not coding, you'll find me immersed in my hobbies, which include reading.Feel free to connect with me on my GitHub profile to explore more about my journey and projects.Looking forward to exciting opportunities ahead!  
+Checkout my github profile : https://github.com/sandramariathomas
+
 
 
 ## Portfolio Highlights
@@ -12,8 +16,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Petshoppy**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Petshoppy**  | Android application for a petshop                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1(https://github.com/username/project1)             |
+| **Fert**  | Android application for fertilizer shop                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
